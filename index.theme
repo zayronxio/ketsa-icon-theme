@@ -1,0 +1,12 @@
+ [Icon Theme]
+Name=ketsa
+Comment=oranchelo-icons is a set of flat icons some with long shadow, designed by adolfo silerio (zayronxio). originally based on superflat-remix, however, each day are more icons.
+Directories=apps/64,
+Inherits=oranchelo,gnome,breeze,breeze-dark,hicolor
+
+[apps/64]
+Size=64
+Context=Applications
+MinSize=16
+MaxSize=512
+Type=Scalable
