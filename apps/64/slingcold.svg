@@ -21,6 +21,18 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient915">
+      <stop
+         style="stop-color:#b9bec6;stop-opacity:1;"
+         offset="0"
+         id="stop911" />
+      <stop
+         style="stop-color:#b9bec6;stop-opacity:0;"
+         offset="1"
+         id="stop913" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient997">
       <stop
          style="stop-color:#fbfeff;stop-opacity:1;"
@@ -95,7 +107,7 @@
        inkscape:collect="always"
        id="linearGradient924">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="0"
          id="stop920" />
       <stop
@@ -305,21 +317,21 @@
        id="linearGradient4644-104-3-3-6-2">
       <stop
          id="stop5237-6-5-1-7"
-         style="stop-color:#51c3cc;stop-opacity:1"
+         style="stop-color:#8dc4f2;stop-opacity:1"
          offset="0" />
       <stop
          id="stop5239-4-6-4-8"
-         style="stop-color:#b3efec;stop-opacity:1"
+         style="stop-color:#20b7ec;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4644-104-3-3-6-2"
        id="linearGradient889"
-       x1="8.8294544"
-       y1="295.82492"
-       x2="8.5410156"
-       y2="281.28711"
+       x1="8.5410156"
+       y1="280.4707"
+       x2="8.3992739"
+       y2="296.2644"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -404,6 +416,15 @@
          stdDeviation="2.4185432"
          id="feGaussianBlur1036" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient915"
+       id="linearGradient917"
+       x1="8.1055536"
+       y1="289.44849"
+       x2="8.1971874"
+       y2="287.51016"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -412,9 +433,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="35.65973"
-     inkscape:cy="30.588264"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="21.713431"
+     inkscape:cy="31.975376"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -433,7 +454,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -443,7 +464,7 @@
      id="layer1"
      transform="translate(0,-280.06667)">
     <circle
-       style="opacity:1;fill:url(#linearGradient889);fill-opacity:1.0;stroke:none;stroke-width:0.81756413;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:url(#linearGradient889);fill-opacity:1;stroke:none;stroke-width:0.81756413;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path826"
        cx="8.5411577"
        cy="288.60864"
@@ -472,6 +493,12 @@
        style="fill:#e5f1f6;fill-opacity:1;stroke:none;stroke-width:0.32013664"
        d="m 8.336266,282.97777 c 0,0 -1.4400034,1.22114 -1.7507474,2.06963 -0.7482489,2.04311 0,6.52744 0,6.52744 h 3.5008704 c 0,0 0.74807,-4.48427 0,-6.52744 -0.3106235,-0.84839 -1.750123,-2.06963 -1.750123,-2.06963 z"
        id="path897"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccsc" />
+    <path
+       style="fill:url(#linearGradient917);fill-opacity:1;stroke:none;stroke-width:0.32013664"
+       d="m 8.336266,282.97777 c 0,0 -1.4400034,1.22114 -1.7507474,2.06963 -0.7482489,2.04311 0,6.52744 0,6.52744 h 3.5008704 c 0,0 0.74807,-4.48427 0,-6.52744 -0.3106235,-0.84839 -1.750123,-2.06963 -1.750123,-2.06963 z"
+       id="path909"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csccsc" />
     <path
