@@ -16,18 +16,18 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="pidgin.svg">
+   sodipodi:docname="telepathy-kde.svg">
   <defs
      id="defs2">
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4612">
       <stop
-         style="stop-color:#debcf0;stop-opacity:1"
+         style="stop-color:#bce7f0;stop-opacity:1"
          offset="0"
          id="stop4608" />
       <stop
-         style="stop-color:#cf8cf1;stop-opacity:0"
+         style="stop-color:#5288d7;stop-opacity:1"
          offset="1"
          id="stop4610" />
     </linearGradient>
@@ -35,11 +35,11 @@
        inkscape:collect="always"
        id="linearGradient4580">
       <stop
-         style="stop-color:#a140d3;stop-opacity:1;"
+         style="stop-color:#4083d3;stop-opacity:1"
          offset="0"
          id="stop4576" />
       <stop
-         style="stop-color:#dbb6ee;stop-opacity:1"
+         style="stop-color:#b6e6ee;stop-opacity:1"
          offset="1"
          id="stop4578" />
     </linearGradient>
@@ -47,11 +47,11 @@
        inkscape:collect="always"
        id="linearGradient4572">
       <stop
-         style="stop-color:#b25bc1;stop-opacity:1"
+         style="stop-color:#5b7dc1;stop-opacity:1"
          offset="0"
          id="stop4568" />
       <stop
-         style="stop-color:#e49def;stop-opacity:1"
+         style="stop-color:#9dbeef;stop-opacity:1"
          offset="1"
          id="stop4570" />
     </linearGradient>
@@ -59,11 +59,11 @@
        inkscape:collect="always"
        id="linearGradient4562">
       <stop
-         style="stop-color:#f4e8fa;stop-opacity:1"
+         style="stop-color:#e8f3fa;stop-opacity:1"
          offset="0"
          id="stop4558" />
       <stop
-         style="stop-color:#b466dd;stop-opacity:1"
+         style="stop-color:#669cdd;stop-opacity:1"
          offset="1"
          id="stop4560" />
     </linearGradient>
@@ -117,9 +117,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.91841018"
-     inkscape:cx="25.962265"
-     inkscape:cy="59.315485"
+     inkscape:zoom="5.1953125"
+     inkscape:cx="22.13139"
+     inkscape:cy="39.250528"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
