@@ -4,7 +4,8 @@ Name=ketsa
 Directories=apps/64,places/64
 
 
-Inherits=Mojave-CT
+Inherits=breeze,elementary,gnome,hicolor
+
 
 [apps/64]
 Size=64
@@ -13,10 +14,5 @@ MinSize=16
 MaxSize=512
 Type=Scalable
 
-[places/64]
-Size=64
-Context=Places
-MinSize=16
-MaxSize=512
-Type=Scalable
+
 
